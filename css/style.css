@@ -1,0 +1,21 @@
+body {
+	margin: 0;
+	background: black;
+}
+* {
+	box-sizing: border-box;
+}
+img {
+	width: 50%;
+	height: auto;
+	margin: auto;
+	display: block;
+}
+#demo {
+	color: white;
+	text-align: center;
+	font-size: 80px;
+}
+#demo span {
+	font-size: 40px;
+}
