@@ -19,3 +19,14 @@ img {
 #demo span {
 	font-size: 40px;
 }
+@media (max-width: 767px){
+	img {
+		width: 100%;
+	}
+	#demo {
+		font-size: 30px;
+	}
+	#demo span {
+		font-size: 18px;
+	}
+}
